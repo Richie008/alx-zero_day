@@ -41,4 +41,4 @@ echo "ALX"
 ^C
 root@884dd2912e08:/alx-zero_day/0x03-git# cat > bash/school
 #!/bin/bash
-echo "School"
+echo "The School is open!"
