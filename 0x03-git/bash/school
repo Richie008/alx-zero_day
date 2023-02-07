@@ -1,0 +1,44 @@
+
+Spaces@Richard MINGW64 ~
+$ ssh 884dd2912e08@884dd2912e08.64aa6d7d.alx-cod.online
+884dd2912e08@884dd2912e08.64aa6d7d.alx-cod.online's password:
+root@884dd2912e08:/# cd alx-zero_day
+root@884dd2912e08:/alx-zero_day# ls
+0x03-git  README.md
+root@884dd2912e08:/alx-zero_day# cd 0x03-git
+root@884dd2912e08:/alx-zero_day/0x03-git# ls
+README.md
+root@884dd2912e08:/alx-zero_day/0x03-git# mkdir bash c js
+root@884dd2912e08:/alx-zero_day/0x03-git# ls
+bash  c  js  README.md
+root@884dd2912e08:/alx-zero_day/0x03-git# touch c/c_is_fun.c js/main.js js/index.js
+root@884dd2912e08:/alx-zero_day/0x03-git# ls
+bash  c  js  README.md
+root@884dd2912e08:/alx-zero_day/0x03-git# cat > bash/alx
+#!/bin/bash
+echo "ALX"
+^C
+root@884dd2912e08:/alx-zero_day/0x03-git# cat > bash/school
+
+Spaces@Richard MINGW64 ~
+$ ssh 884dd2912e08@884dd2912e08.64aa6d7d.alx-cod.online
+884dd2912e08@884dd2912e08.64aa6d7d.alx-cod.online's password:
+root@884dd2912e08:/# cd alx-zero_day
+root@884dd2912e08:/alx-zero_day# ls
+0x03-git  README.md
+root@884dd2912e08:/alx-zero_day# cd 0x03-git
+root@884dd2912e08:/alx-zero_day/0x03-git# ls
+README.md
+root@884dd2912e08:/alx-zero_day/0x03-git# mkdir bash c js
+root@884dd2912e08:/alx-zero_day/0x03-git# ls
+bash  c  js  README.md
+root@884dd2912e08:/alx-zero_day/0x03-git# touch c/c_is_fun.c js/main.js js/index.js
+root@884dd2912e08:/alx-zero_day/0x03-git# ls
+bash  c  js  README.md
+root@884dd2912e08:/alx-zero_day/0x03-git# cat > bash/alx
+#!/bin/bash
+echo "ALX"
+^C
+root@884dd2912e08:/alx-zero_day/0x03-git# cat > bash/school
+#!/bin/bash
+echo "School"
